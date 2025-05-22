@@ -1,0 +1,30 @@
+
+Santiago Grub Godoy
+
+
+
+1) Una variable es un tipo de herramienta o espacio para guardar ciertos tipos de archios especificos, como por ejemplo el int, char
+
+2) int > Guarda numeros enteros
+Double > Guarda num decimales
+Char > Guarda una sola letra
+String > Guarda mas de una letra(palabraS)
+
+3) Declarar una variables es cuando ya decides el tipo de valor que se va a guardar, si es un entero y demas, cuando le asignas un valor tu pones el valor que tu decides darle a ese tipo de valor, por ejemplo declaro un int primero y luego decido que ese valor es de 8
+
+4) Podes decir que significa que java es un lenguaje mas complejo y mas complicado que los demas por su gran variedad de cosas. Es muy buen lenguaje y funciona en todos los dispositivos 
+
+5) Una constante una vez se le asigna un valor ya no puede ser cambiado, en cambio las variables pueden cambiar de valor perfectamente, podemos decir que la cedula de una persona es una constante, y que la edad es una variable comun.
+
+6) Para no entreverarnos y tener mejor movilidad al momento de escribir codigos, porque generalmente vamos a poner demasiadas variables en el codigo.
+
+7)ni idea profe
+
+8) tampoco se
+
+9)Me parece que no se puede cambiar el tipo de variable si el tipo de codigo o para que sea no lo permito
+
+10) int 8id = 0;
+De lo que se si le ponemos un nùmero al nombre de una variable contestara con error
+
+
